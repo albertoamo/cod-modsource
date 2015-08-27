@@ -1,0 +1,4 @@
+name,file,vol_min,dist_min,dist_max,channel,type,loop,loadspec
+
+dooropen,Doors/mrk_shutter_move5.wav,0.85,50,500,voice,,,
+doorclose,Doors/mrk_shutter_move4.wav,0.85,50,500,voice,,,

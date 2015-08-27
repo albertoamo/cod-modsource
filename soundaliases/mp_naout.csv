@@ -1,0 +1,5 @@
+name,sequence,file,vol_min,vol_max,vol_mod,pitch_min,pitch_max,dist_min,dist_max,channel,type,probability,loop,masterslave,loadspec,subtitle,compression,secondaryaliasname,volumefalloffcurve,startdelay,speakermap,reverb,lfe percentage
+
+
+#Ambience,,,,,,,,,,,,,,,
+ambient_mp_naout,,ambient/amb_africa01b.mp3,0.57,,,,,,,local,streamed,,looping,,mp_naout

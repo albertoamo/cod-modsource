@@ -1,0 +1,8 @@
+name,sequence,file,vol_min,vol_max,vol_mod,pitch_min,pitch_max,dist_min,dist_max,channel,type,probability,loop,masterslave,loadspec,subtitle,compression,secondaryaliasname,volumefalloffcurve,startdelay,speakermap,reverb,lfe percentage
+
+#Radio
+underground_radio1,,music/duhocassault_discovery2_GRFINAL.mp3,0.9,0.9,music,,,800,1500,auto,streamed,,nonlooping,,mp_zn_underground_v2
+underground_radio2,,music/downtownsniper_victory_GRFINAL.mp3,0.9,0.9,music,,,800,1500,auto,streamed,,nonlooping,,mp_zn_underground_v2
+underground_radio3,,music/eldaba_ridein2_GRFINAL.mp3,0.9,0.9,music,,,800,1500,auto,streamed,,nonlooping,,mp_zn_underground_v2
+underground_radio4,,music/toujane_vehicle_ride_GRFINAL.mp3,0.9,0.9,music,,,800,1500,auto,streamed,,nonlooping,,mp_zn_underground_v2
+underground_radio5,,music/libya_desert_sea_long_GRFINAL.mp3,0.9,0.9,music,,,800,1500,auto,streamed,,nonlooping,,mp_zn_underground_v2

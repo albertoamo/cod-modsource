@@ -1,0 +1,8 @@
+name,sequence,file,vol_min,vol_max,vol_mod,pitch_min,pitch_max,dist_min,dist_max,channel,type,probability,loop,masterslave,loadspec,subtitle,compression,secondaryaliasname,volumefalloffcurve,startdelay,speakermap,reverb,lfe percentage
+
+#Jeep
+jeep_start,,vehicles/kubel_start.wav,0.6,0.8,,,,350,4000,auto,streamed,,looping,,mp_zn_ultimate
+jeep_idle,,vehicles/jeep_idle01.wav,0.4,.6,,,,100,500,auto,streamed,,looping,,mp_zn_ultimate
+jeep_horn,,vehicles/jeep_horn_loop.wav,0.9,1,,,,500,4000,auto,streamed,,looping,,mp_zn_ultimate
+jeep_move,,vehicles/jeep_move01.wav,0.6,0.8,,,,500,3000,auto,streamed,,looping,,mp_zn_ultimate
+vehicle_collision2,,vehicles/vehicle_hit_person.wav,0.7,0.9,,,,500,1000,auto,streamed,,looping,,mp_zn_ultimate

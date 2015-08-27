@@ -1,0 +1,5 @@
+name,sequence,file,vol_min,vol_max,vol_mod,pitch_min,pitch_max,dist_min,dist_max,channel,type,probability,loop,masterslave,loadspec,subtitle,compression,secondaryaliasname,volumefalloffcurve,startdelay,speakermap,reverb,lfe percentage
+
+radiostatic,,amb_emitters/emt_radiostatic_2.wav,.4,.4,element,,,5,200,auto,,,looping,,,,,,,,,,
+weap_pickup,,misc/PU_Weapon02.wav,0.9,0.9,wpnplyr,0.9,0.9,7,500,auto,,,,,,,,,
+sparks,,misc/sparks.wav,0.5,0.55,wpnplyr,0.9,1,7,500,auto,,,,,,,,,
